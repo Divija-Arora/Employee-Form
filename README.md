@@ -4,6 +4,8 @@ Created Employee Form
 
 Employee Management System
 
+We can see the screenshots below
+
 step 1
 <img width="1366" height="768" alt="Screenshot (497)" src="https://github.com/user-attachments/assets/a6008fb9-4e3a-4608-b767-0e94750541a1" />
 
