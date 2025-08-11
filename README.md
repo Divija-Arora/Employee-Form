@@ -28,7 +28,7 @@ step 6
 <img width="1366" height="768" alt="Screenshot (502)" src="https://github.com/user-attachments/assets/39c7a437-7d74-4fa0-a291-127c5e16aba1" />
 
 -
-
+step 7
 <img width="1366" height="768" alt="Screenshot (503)" src="https://github.com/user-attachments/assets/874706d2-6828-42dc-945c-1473eb531623" />
 
 
