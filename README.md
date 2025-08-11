@@ -1,6 +1,6 @@
 # Employee-Form
 
-Created Employee Form
+Created Employee Form:
 
 Employee Management System
 
